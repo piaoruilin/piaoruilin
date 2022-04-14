@@ -34,7 +34,6 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 ## 💻 **Stats**
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=piaoruilin&show_icons=true&theme=dracula" />
- <> <!-- fix the spacing -->
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&theme=dracula&layout=compact" />
 </div>
 <!--
@@ -42,7 +41,7 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&layout=compact&theme=dracula)
 -->
 
-## ♟ **Projects**
+## 📂 **Hackathon Addiction**
 **2020**
 * 1st Runner Up in Roche Malaysia Code4Life Hackathon <img src="https://img.shields.io/badge/2020-my--journey-brightgreen"/>
 
