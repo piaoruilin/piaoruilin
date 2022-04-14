@@ -14,3 +14,4 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 
 ## 💻 **Stats**
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=piaoruilin&theme=dracula&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&theme=dracula)
