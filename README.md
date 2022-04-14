@@ -44,13 +44,13 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 
 ## 📂 **Hackathon Addiction**
 **2020**
-* ***1st Runner Up*** in Roche Malaysia Code4Life Hackathon <img src="https://img.shields.io/badge/2020-my--journey-brightgreen"/>
+* <img src="https://img.shields.io/badge/2020-my--journey-brightgreen"/> ***1st Runner Up*** in Roche Malaysia Code4Life Hackathon
 
 **2021**
-* HackComing MLH Hackathon <img src="https://img.shields.io/badge/2021-12--days--of--christmas--with.us-brightgreen"/>
-* ***Winner*** of Bon Hacketit 2.0 MLH Hackathon <img src="https://img.shields.io/badge/2021-come--dine--with.us-brightgreen"/>
-* ***Winner*** of MapHacks MLH Hackathon <img src="https://img.shields.io/badge/2021-maphacks2021-brightgreen"/>
-* ***Winner*** of Hacky Winterland MLH Hackathon <img src="https://img.shields.io/badge/2021-hacky--winterland-brightgreen"/>
+* <img src="https://img.shields.io/badge/2021-12--days--of--christmas--with.us-brightgreen"/> HackComing MLH Hackathon
+* <img src="https://img.shields.io/badge/2021-come--dine--with.us-brightgreen"/> ***Winner*** of Bon Hacketit 2.0 MLH Hackathon
+* <img src="https://img.shields.io/badge/2021-maphacks2021-brightgreen"/> ***Winner*** of MapHacks MLH Hackathon
+* <img src="https://img.shields.io/badge/2021-hacky--winterland-brightgreen"/> ***Winner*** of Hacky Winterland MLH Hackathon
 
 **2022**
-* DevRev Open AI Code Hackathon <img src="https://img.shields.io/badge/2022-devrev--hackathon-lightgrey"/>
+* <img src="https://img.shields.io/badge/2022-devrev--hackathon-lightgrey"/> DevRev Open AI Code Hackathon
