@@ -27,11 +27,14 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+
 ### *Databases*
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/></a>
+
 ### *Web-Based*
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a></br>
+
 ## 💻 **Stats**
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=piaoruilin&show_icons=true&theme=dracula" />
