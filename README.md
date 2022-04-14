@@ -11,7 +11,7 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 <p align="center">
 <a href="https://www.linkedin.com/in/ruilinpiao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35px"></a>
 <a href="https://devpost.com/piaoruilin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" width="40px"></a>
-<a href="https://www.instagram.com/piaoruilin/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
+<a href="https://www.instagram.com/piaoruilin/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35px"></a>
 </p>
 
 ## ⚙️ **Technologies I've Picked Up**
