@@ -32,10 +32,25 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a></br>
 ## 💻 **Stats**
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=piaoruilin&show_icons=true&theme=dracula" />
+ <> <!-- fix the spacing -->
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&theme=dracula&layout=compact" />
+</div>
+<!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=piaoruilin&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&layout=compact&theme=dracula)
+-->
 
-## ♟ **Hackathon Addiction**
+## ♟ **Projects**
 **2020**
+* 1st Runner Up in Roche Malaysia Code4Life Hackathon <img src="https://img.shields.io/badge/2020-my--journey-brightgreen"/>
 
-2021
+**2021**
+* HackComing MLH Hackathon <img src="https://img.shields.io/badge/2021-12--days--of--christmas--with.us-brightgreen"/>
+* Winner of Bon Hacketit 2.0 MLH Hackathon <img src="https://img.shields.io/badge/2021-come--dine--with.us-brightgreen"/>
+* Winner of MapHacks MLH Hackathon <img src="https://img.shields.io/badge/2021-maphacks2021-brightgreen"/>
+* Winner of Hacky Winterland MLH Hackathon <img src="https://img.shields.io/badge/2021-hacky--winterland-brightgreen"/>
+
+**2022**
+* DevRev Open AI Code Hackathon <img src="https://img.shields.io/badge/2022-devrev--hackathon-lightgrey"/>
