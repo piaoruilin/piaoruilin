@@ -37,7 +37,7 @@ I'm a first-year Engineering student studying Data Science at Korea University. 
 
 ## 💻 **Stats**
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=piaoruilin&show_icons=true&theme=dracula" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=piaoruilin&show_icons=true&theme=dracula" width="420px"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaoruilin&theme=dracula&layout=compact" />
 </div>
 
