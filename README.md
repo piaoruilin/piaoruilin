@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-## 🐯 **About Me**
+## 🐯
 I'm a second-year Engineering student studying Data Science at Korea University. You can find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/ruilinpiao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35px"></a>
@@ -14,28 +14,24 @@ I'm a second-year Engineering student studying Data Science at Korea University.
 <a href="https://www.instagram.com/piaoruilin/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35px"></a>
 </p>
 
-## ⚙️ **Technologies I've Picked Up**
-### *Programming Languages (Back-End)*
+## ⚙️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
 
-### *Programming Languages (Front-End)*
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 
-### *Databases*
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/></a>
 
-### *Web-Based*
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a></br>
 
-## 📂 **Hackathon Addiction**
+## 📂
 **2020**
 * <img src="https://img.shields.io/badge/2020-my--journey-brightgreen"/> ***1st Runner Up*** in Roche Malaysia Code4Life Hackathon
 
