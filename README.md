@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🐯
-I'm a second-year Engineering student studying Data Science at Korea University. You can find me on:
+I'm a third-year Engineering student studying Data Science at Korea University. You can find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/ruilinpiao/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="35px"></a>
 <a href="https://devpost.com/piaoruilin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" width="40px"></a>
